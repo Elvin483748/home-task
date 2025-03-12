@@ -1,0 +1,11 @@
+table tr th{
+border: 2px inset black;
+}
+table{
+    border: 2px outset black;
+    width: 38%;
+    height: 250px;
+}
+td{
+    border: 1px inset black;
+}
